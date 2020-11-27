@@ -66,6 +66,7 @@ line-height: 1.5;
 .ice-cream{
   transform: rotate(18deg);
   position: absolute;
+  width: 80%;  
 }
 
 .download-button{
@@ -180,6 +181,7 @@ margin: 0 1% 1% 1%;
   .ice-cream{
     position: static;
     transform: rotate(0deg);
+
   }
 
   #title{
